@@ -35,7 +35,7 @@ server listening on port 8080.
 
     curl -i -X POST http://localhost:8080/flags -H "Content-Type: application/json" -d '{ "name": "myflag", "value": true }'
 
-Reload the browser pager to see the new flag value.
+Reload the browser page to see the new flag value.
 
 # How it works
 
